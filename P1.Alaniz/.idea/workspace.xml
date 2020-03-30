@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bad53a81-9fc5-4d89-9b6e-c8e67bede130" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="P1.Alaniz" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZXFaWd7K5CxaS63KBnq56KiKdd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.P1.Stack&amp;Queue">
+    <configuration name="P1.Queue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="P1.Alaniz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P1.Queue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P1.Stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="P1.Alaniz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P1.Stack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="P1.Stack&amp;Queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="P1.Alaniz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P1.Stack&amp;Queue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.P1.Stack&amp;Queue" />
+        <item itemvalue="Python.P1.Queue" />
+        <item itemvalue="Python.P1.Stack" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bad53a81-9fc5-4d89-9b6e-c8e67bede130" name="Default Changelist" comment="" />
+      <created>1584977595380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584977595380</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Inspections" timestamp="1585524312811">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1585524312811" />
+    <state x="415" y="76" key="#P1.Stack" timestamp="1585266622350">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="415" y="76" key="#P1.Stack&amp;Queue" timestamp="1585352534244">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="415" y="76" key="#P1.Stack&amp;Queue/0.0.1440.900@0.0.1440.900" timestamp="1585352534244" />
+    <state x="415" y="76" key="#P1.Stack&amp;Queue_(1)" timestamp="1585525447812">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="415" y="76" key="#P1.Stack&amp;Queue_(1)/0.0.1440.900@0.0.1440.900" timestamp="1585525447812" />
+    <state x="415" y="76" key="#P1.Stack/0.0.1440.900@0.0.1440.900" timestamp="1585266622350" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1585545273874">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585544188779" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1585545273874" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1585545273873">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585544188778" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1585545273873" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1585545273873">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585544188777" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1585545273873" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1585545273874">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585544188779" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1585545273874" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1585358786597">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1585358786597" />
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1585513858419">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1585513858419" />
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1584977622769" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585524292431">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1585524292431" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1585519100006">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1585519100006" />
+  </component>
+</project>
